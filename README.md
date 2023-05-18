@@ -18,6 +18,6 @@ After cloning the repository, open your terminal and run:
 ```
 Git clone this project
 Yarn install
-Yarn run serve
+Yarn run server
 Running in port :8080
 ```
