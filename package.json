@@ -1,0 +1,24 @@
+{
+  "name": "ssr-vue3",
+  "version": "1.0.0",
+  "description": "implementation ssr in web with vuejs 3",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "main": "main.js",
+  "type": "module",
+  "author": "RikoPri <riko.primada@privyid.tech>",
+  "license": "MIT",
+  "keywords": [
+    "vuejs",
+    "ssr",
+    "expressjs"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "vue": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
